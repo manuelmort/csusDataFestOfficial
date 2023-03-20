@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.15bf0be6.css",
-    "main.js": "/static/js/main.2b8d601b.js",
-    "static/js/787.24922b2d.chunk.js": "/static/js/787.24922b2d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.15bf0be6.css.map": "/static/css/main.15bf0be6.css.map",
-    "main.2b8d601b.js.map": "/static/js/main.2b8d601b.js.map",
-    "787.24922b2d.chunk.js.map": "/static/js/787.24922b2d.chunk.js.map"
+    "main.css": "/csusdatafestofficial/static/css/main.15bf0be6.css",
+    "main.js": "/csusdatafestofficial/static/js/main.d19eec0a.js",
+    "static/js/787.24922b2d.chunk.js": "/csusdatafestofficial/static/js/787.24922b2d.chunk.js",
+    "static/media/logo.svg": "/csusdatafestofficial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/csusdatafestofficial/index.html",
+    "main.15bf0be6.css.map": "/csusdatafestofficial/static/css/main.15bf0be6.css.map",
+    "main.d19eec0a.js.map": "/csusdatafestofficial/static/js/main.d19eec0a.js.map",
+    "787.24922b2d.chunk.js.map": "/csusdatafestofficial/static/js/787.24922b2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15bf0be6.css",
-    "static/js/main.2b8d601b.js"
+    "static/js/main.d19eec0a.js"
   ]
 }
