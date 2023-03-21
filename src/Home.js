@@ -47,10 +47,10 @@ export default class Home extends React.Component {
 
                     </div>
                 </div>
-                </div>
-                <div>
-                    <div id="LearnMore" class="grid lg:grid-cols-3 mt-20 lg:ml-32 lg:mr-32 xl:ml-60 xl:mr-60 ">
-                        <div class="shadow-xl bg-amber-300/50   rounded-2xl lg:w-72">
+                </div >
+                <div class=" xl:ml-20 2xl:pl-40 ">
+                    <div id="LearnMore" class="grid lg:grid-cols-3  mt-20 lg:ml-32  lg:mr-32   ">
+                        <div class="shadow-xl bg-amber-300/50   rounded-2xl lg:w-72 ">
                         <MdFastfood class="mx-auto  mt-5" size={50}/>
 
                             <p class="text-2xl mt-10">FREE FOOD!</p>
@@ -69,7 +69,7 @@ export default class Home extends React.Component {
                             <p class="p-5">Graduates and local business professionals will be available to help you brainstorm and design throughout the event. This is a great opportunity to network with potential local employers.</p>
                         </div>
                     </div>
-                    <div class="grid lg:grid-cols-3  lg:ml-32 lg:mr-32 xl:ml-60 xl:mr-60 lg:mt-20">
+                    <div class="grid lg:grid-cols-3  lg:ml-32 lg:mr-32  lg:mt-20">
                         <div class="shadow-xl rounded-2xl bg-amber-300/50 lg:w-72">
                             <BsFileSpreadsheet class="mx-auto  mt-5" size={50}/>
 
