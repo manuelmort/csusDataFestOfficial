@@ -28,7 +28,7 @@ export default class Sidebar extends React.Component {
   return (
             <div class="">
                 <div className='navbar text-sky-500  mt-10'>
-                <img src="../df_mini_logo.svg" class="lg:w-28 w-20 float-left  inline lg:ml-20 ml-5"/>
+                <img src="./df_mini_logo.svg" class="lg:w-28 w-20 float-left  inline lg:ml-20 ml-5"/>
 
                     <button to='#' className='menu-bars float-right'>
 
